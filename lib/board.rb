@@ -1,4 +1,4 @@
-board
+board = "Hello"
 board = Array.new
 
 board = [" "," "," "," ", " ", " "," "," "," "]
